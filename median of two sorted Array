@@ -25,7 +25,7 @@ public:
             sum = (float)num3[(int)(m+n-1)/2];
         }
 
-            return sum;
+            return sum; 
 
 
     }
